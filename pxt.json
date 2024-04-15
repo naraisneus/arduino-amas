@@ -2,7 +2,8 @@
     "name": "ARDUINO AMAS",
     "description": "",
     "dependencies": {
-        "arduino-zero": "*"
+        "arduino-zero": "*",
+        "lightsensor": "*"
     },
     "files": [
         "main.blocks",
